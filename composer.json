@@ -1,0 +1,9 @@
+{
+"name": "test",
+  "description": "test",
+    "type": "test",
+	  "license": "MIT",
+	    "require": {
+				"php": ">5.4"
+				  }
+				  }
