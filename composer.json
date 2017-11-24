@@ -1,6 +1,6 @@
 {
 "name": "test/rq",
-  "description": "test",
+  "description": "my first composer",
     "type": "test",
 	  "license": "MIT",
 	    "require": {
